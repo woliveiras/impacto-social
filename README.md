@@ -43,3 +43,7 @@ Você pode apoiar mensalmente através do PicPay, será necessário instalar o a
 Ao criar sua conta, insira o meu código, **HEYQ7T**, e ganhe de volta os primeiros R$10 que você gastar no app. Baixe agora neste link: [picpay.com/convite](http://www.picpay.com/convite?!HEYQ7T).
 
 Depois você pode acessar este link [picpay.me/uillaz](https://picpay.me/uillaz) para ter acesso ao meu QR Code e poder assinar minha campanha.
+
+## Como receber apoio
+
+Se você se declara como vivendo em condição de baixa renda que deseja entrar na área de programação, pode receber meu apoio via sorteio mensal através do formulário: [apoio social](https://forms.gle/gARZHvB4svLNzrP17).
