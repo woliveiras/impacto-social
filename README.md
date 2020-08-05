@@ -30,6 +30,16 @@ Viver em sociedade é pensar no coletivo.
 
 Através do apoio da comunidade de tecnologia eu arrecado fundos para prestar mentoria, doar livros, cursos e desenvolver um trabalho social individual para mudar a vida das pessoas.
 
-Anteriormente eu trabalhava sozinho, mas com o interesse de outras pessoas me ajudarem nessa missão, abri um plano de apoio via PicPay, uma plataforma que facilita a transferência de fundos de uma pessoa física para outra.
+Anteriormente eu trabalhava sozinho, mas com o interesse de outras pessoas me ajudarem nessa missão, abri um plano de apoio via [PicPay](https://picpay.me/), uma plataforma que facilita a transferência de fundos de uma pessoa física para outra.
 
-Juntos já apoiamos [diversas pessoas](./sponsored.md) e vamos continuar fazendo muito pela sociedade através de pequenas atitudes diárias.
+Juntos já [apoiamos diversas](./sponsored.md) pessoas e vamos continuar fazendo muito pela sociedade através de pequenas atitudes diárias.
+
+> OBS: A maioria não gosta de divulgar esse tipo de apoio. O número é maior do que temos cadastrado \o/
+
+## Como ajudar
+
+Você pode apoiar mensalmente através do PicPay, será necessário instalar o app, criar uma conta e acessar o meu QR Code.
+
+Ao criar sua conta, insira o meu código, **HEYQ7T**, e ganhe de volta os primeiros R$10 que você gastar no app. Baixe agora neste link: [picpay.com/convite](http://www.picpay.com/convite?!HEYQ7T).
+
+Depois você pode acessar este link [picpay.me/uillaz](https://picpay.me/uillaz) para ter acesso ao meu QR Code e poder assinar minha campanha.
