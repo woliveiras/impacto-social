@@ -32,7 +32,7 @@ Através do apoio da comunidade de tecnologia eu arrecado fundos para prestar me
 
 Anteriormente eu trabalhava sozinho, mas com o interesse de outras pessoas me ajudarem nessa missão, abri um plano de apoio via [PicPay](https://picpay.me/), uma plataforma que facilita a transferência de fundos de uma pessoa física para outra.
 
-Juntos já [apoiamos diversas](./sponsored.md) pessoas e vamos continuar fazendo muito pela sociedade através de pequenas atitudes diárias.
+Juntos já [apoiamos diversas pessoas](./sponsored.md) e vamos continuar fazendo muito pela sociedade através de pequenas atitudes diárias.
 
 > OBS: A maioria não gosta de divulgar esse tipo de apoio. O número é maior do que temos cadastrado \o/
 
