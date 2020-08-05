@@ -1,3 +1,23 @@
 ## Pessoas apoiadas
 
-- 
+- Ana Paula: Curso Excel Expert - Do Básico a Construção de Dashboards
+- Joanderson: Curso Completo de PHP 7
+- Clayton: Curso Completo do Desenvolvedor NodeJS e MongoDB
+- Tainá: Curso ITIL Foundation - Curso Completo Para Certificação ITIL
+- Carolina: Livro Cangaceiro JavaScript
+- Daniel: Curso Crie Uma Loja Virtual com WordPress e WooCommerce
+- Rafael: Formação Alura Cursos Online
+- Nelly: Curso Desenvolvedor Multiplataforma Android/IOS com React e Redux
+- Lindsay: Curso Completo de Linguagem C e C++ - Iniciante Ao Avançado
+- Douglas: Livro Ionic Framework
+- Gabriel: Curso Completo do Desenvolvedor NodeJS e MongoDB
+- Maiara: Curso desenvolvedor web completo
+- Bruna: Ingresso para o WordCamp SP
+- Lindsay: Ingresso para o WordCamp SP
+- Cristhiane: Ingresso para o WordCamp SP
+- Jessica: Ingresso para o WordCamp SP
+- Pedro: Ingresso para o WordCamp SP
+- Victor: Ingresso para o WordCamp SP
+- Wellington: Um notebook
+- Mikaelly: Curso JS com TDD na prática
+- Wellington: Curso de HTML e CSS
