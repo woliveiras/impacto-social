@@ -44,6 +44,8 @@ Ao criar sua conta, insira o meu código, **HEYQ7T**, e ganhe de volta os primei
 
 Depois você pode acessar este link [picpay.me/uillaz](https://picpay.me/uillaz) para ter acesso ao meu QR Code e poder assinar minha campanha.
 
+[Para empresas, clique aqui](mailto:w.oliveira542@gmail.com)
+
 ## Como receber apoio
 
 Se você se declara como vivendo em condição de baixa renda que deseja entrar na área de programação, pode receber meu apoio via sorteio mensal através do formulário: [apoio social](https://forms.gle/gARZHvB4svLNzrP17).
