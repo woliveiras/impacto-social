@@ -21,3 +21,8 @@
 - Wellington: Um notebook
 - Mikaelly: Curso JS com TDD na prática
 - Wellington: Curso de HTML e CSS
+- Karol Oliveira: Assinatura da Origamid
+- Weslley: Assinatura da Origamid
+- Leo Costa: Assinatura da Origamid
+- Tatiane Alves: Assinatura da Origamid
+- Raissa Silva: Assinatura da Origamid
