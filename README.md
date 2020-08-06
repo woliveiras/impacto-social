@@ -47,3 +47,7 @@ Depois você pode acessar este link [picpay.me/uillaz](https://picpay.me/uillaz)
 ## Como receber apoio
 
 Se você se declara como vivendo em condição de baixa renda que deseja entrar na área de programação, pode receber meu apoio via sorteio mensal através do formulário: [apoio social](https://forms.gle/gARZHvB4svLNzrP17).
+
+## Apoiadores e apoiadoras
+
+[Empresas e pessoas que apoiam essa causa](./sponsors).
