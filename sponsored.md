@@ -26,3 +26,6 @@
 - Leo Costa: Assinatura da Origamid
 - Tatiane Alves: Assinatura da Origamid
 - Raissa Silva: Assinatura da Origamid
+- Tatiane Alves: Ingresso para o TDC SP
+- Raissa Silva: Ingresso para o TDC SP
+- Karol Oliveira: Ingresso para o TDC SP
