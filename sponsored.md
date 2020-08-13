@@ -29,3 +29,4 @@
 - Tatiane Alves: Ingresso para o TDC SP
 - Raissa Silva: Ingresso para o TDC SP
 - Karol Oliveira: Ingresso para o TDC SP
+- André: React Avançado: Crie aplicações com NextJS, GraphQL e mais
