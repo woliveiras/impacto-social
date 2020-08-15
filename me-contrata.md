@@ -15,6 +15,10 @@
 
 ## Currículos
 
+Este espaço é reservado para grupos de minorias sociais. 
+
+Se você não faz parte de nenhum [grupo destes](https://brasilescola.uol.com.br/sociologia/minorias-sociais.htm), por favor não adicionar o seu perfil na lista.
+
 Coloque seu nome e LinkedIn na lista com o seguinte formato:
 
 ```
