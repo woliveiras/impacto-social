@@ -54,4 +54,4 @@ Se você se declara como vivendo em condição de baixa renda que deseja entrar 
 
 ## Apoiadores e apoiadoras
 
-[Empresas e pessoas que apoiam essa causa](./sponsors).
+[Empresas e pessoas que apoiam essa causa](./sponsors.md).
