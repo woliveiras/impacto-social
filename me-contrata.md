@@ -27,4 +27,4 @@ Coloque seu nome e LinkedIn na lista com o seguinte formato:
 
 | Perfil | Especialidade | 
 | -- | -- | 
-| [nome](linkedin) | especialidade | 
+| [Leonardo A. de Souza](https://www.linkedin.com/in/lsouza42/) | back-end | 
