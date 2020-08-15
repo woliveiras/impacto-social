@@ -1,6 +1,8 @@
 ## Pessoas diversas desenvolvedoras de software
 
-> Contrate pessoas de grupos sub-representados! [A diversidade eleva o nível dos seus produtos e a produtividade da sua empresa](https://www.mckinsey.com/business-functions/organization/our-insights/delivering-through-diversity?cid=soc-web#)
+> Contrate pessoas de grupos sub-representados! 
+
+[A diversidade eleva o nível dos seus produtos e a produtividade da sua empresa](https://www.mckinsey.com/business-functions/organization/our-insights/delivering-through-diversity?cid=soc-web#)
 
 | Áreas de atuação |
 | -- | 
