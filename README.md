@@ -2,6 +2,8 @@
 
 > Apoio a pessoas de baixa renda, moradores de periferia e pessoas em situação de vulnerabilidade social que desejam entrar na área de programação
 
+[Contrate pessoas de grupos sub-representados](./me-contrata.md)
+
 ## Contextualizando
 
 Mais de 40% dos brasileiros até 14 anos vivem em situação de pobreza. O número representa 17,3 milhões de jovens, aponta estudo de 2018 da Abrinq.
