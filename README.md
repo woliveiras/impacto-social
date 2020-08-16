@@ -2,7 +2,23 @@
 
 > Apoio a pessoas de baixa renda, moradores de periferia e pessoas em situação de vulnerabilidade social que desejam entrar na área de programação
 
-[Contrate pessoas de grupos sub-representados](./me-contrata.md)
+--- 
+
+**Contrate**
+
+Contrate pessoas de grupos sub-representados através deste link: [impacto-social/me-contrata](./me-contrata.md)
+
+**Consiga Mentoria**
+
+Você pode conseguir mentoria na área de tecnologias de pessoas diversas!
+
+Entre no link do Codamos.club e entre em contato com a galera: [Codamos/pessoas](https://www.codamos.club/pessoas).
+
+**Convide pessoas para palestrar**
+
+Em vários eventos vemos grades homogêneas e para que isso deixe de ser uma regra, o Codamos reúne uma lista imensa de pessoas diversas para o seu evento, entre em contato com elas: [Codamos/pessoas](https://www.codamos.club/pessoas).
+
+---
 
 ## Contextualizando
 
