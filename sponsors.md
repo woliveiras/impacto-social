@@ -4,3 +4,4 @@
 - [Casa do Código](https://www.casadocodigo.com.br/)
 - [WordCamp São Paulo](http://saopaulo.wordcamp.org/)
 - [Origamid](https://www.origamid.com/)
+- [Codamos.club](https://www.codamos.club/)
