@@ -29,3 +29,4 @@ Coloque seu nome e LinkedIn na lista com o seguinte formato:
 | -- | -- | 
 | [Leonardo A. de Souza](https://www.linkedin.com/in/lsouza42/) | back-end | 
 | [Leonardo Costa e Paula](https://www.linkedin.com/in/leocosta001/) | front-end | 
+| [Sara Fogo](https://www.linkedin.com/in/sara-fogo/) | front-end | 
