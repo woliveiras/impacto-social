@@ -31,4 +31,5 @@ Coloque seu nome e LinkedIn na lista com o seguinte formato:
 | [Leonardo Costa e Paula](https://www.linkedin.com/in/leocosta001/) | front-end | 
 | [Denilson Alves Santos](https://www.linkedin.com/in/deniavsa/) | front-end | 
 | [Sara Fogo](https://www.linkedin.com/in/sara-fogo/) | front-end | 
+| [Maria Souza](https://www.linkedin.com/in/maria-souza-oliveira/) | front-end | 
 
