@@ -30,3 +30,7 @@
 - Raissa Silva: Ingresso para o TDC SP
 - Karol Oliveira: Ingresso para o TDC SP
 - André: Curso React Avançado; Crie aplicações com NextJS, GraphQL e mais
+- Camilla: Formação em desenvolvimento Web
+- Vanessa: Formação em desenvolvimento Web
+- Elisandro: Formação em desenvolvimento Web
+- Luiz: Formação em desenvolvimento Web
